@@ -19,5 +19,15 @@
   "bugs": {
     "url": "https://github.com/akibtanjim/tfjs/issues"
   },
-  "homepage": "https://github.com/akibtanjim/tfjs#readme"
+  "homepage": "https://github.com/akibtanjim/tfjs#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.2.5",
+    "bootstrap": "^4.3.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-runtime": "^6.26.0"
+  }
 }
