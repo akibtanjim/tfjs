@@ -1,0 +1,23 @@
+{
+  "name": "tfjs02",
+  "version": "1.0.0",
+  "description": "A handwriting recognition app built with tensorflow js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akibtanjim/tfjs.git"
+  },
+  "keywords": [
+    "tensorflow",
+    "machine-learning"
+  ],
+  "author": "Akib Tanjim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akibtanjim/tfjs/issues"
+  },
+  "homepage": "https://github.com/akibtanjim/tfjs#readme"
+}
